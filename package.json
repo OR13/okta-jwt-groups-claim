@@ -1,0 +1,24 @@
+{
+  "name": "okta-jwt-groups-claim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OR13/okta-jwt-groups-claim.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OR13/okta-jwt-groups-claim/issues"
+  },
+  "homepage": "https://github.com/OR13/okta-jwt-groups-claim#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^5.0.1",
+    "jsonwebtoken": "^8.2.1"
+  }
+}
